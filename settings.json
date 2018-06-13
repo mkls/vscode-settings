@@ -1,0 +1,23 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.minimap.enabled": false,
+    "files.trimTrailingWhitespace": true,
+    "workbench.editor.showTabs": false,
+    "git.confirmSync": false,
+    "window.zoomLevel": 0,
+    "prettier.semi": true,
+    "prettier.tabWidth": 2,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 100,
+    "git.enableSmartCommit": true,
+    "tslint.alwaysShowRuleFailuresAsWarnings": true,
+    "editor.fontSize": 12,
+    "git.autofetch": true,
+    "editor.rulers": [
+        100,
+        120
+    ],
+    "editor.tabSize": 2,
+    "javascript.suggestionActions.enabled": false,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}
